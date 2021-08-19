@@ -5,6 +5,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 CORS_ORIGIN_ALLOW_ALL = True
 
+# TODO Set database
 # DATABASES = {
 #     'default': {
 #         'NAME': 'lk',

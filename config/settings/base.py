@@ -8,7 +8,7 @@ APP_DIR = ROOT_DIR / 'app'
 """
 from django.core.management.utils import get_random_secret_key
 """
-SECRET_KEY = '@8s-h=*7ftan^c$ll(ixwjc%_t7g9#ar08hg&=_y@qdyl39ak-'
+SECRET_KEY = ''
 
 DEBUG = True
 
